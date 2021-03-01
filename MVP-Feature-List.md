@@ -4,8 +4,8 @@
 ### 1. Set up hosting on `Heroku`
   
 ### 2. Account Creation / `Login `/ `Logout `/ `Guest-Login`
-  *Users can have the ability to do the following: `Sign-up`, `Log-in`, `Log-out.` 
-  *Will prompt guests to login or create an account if they attempt to post or answer questions. 
+  * Users can have the ability to do the following: `Sign-up`, `Log-in`, `Log-out.` 
+  * Will prompt guests to login or create an account if they attempt to post or answer questions. 
 
 ### 3. Ask Questions
   *Registered users will have the ability to post Questions pertaining to mixology. 
