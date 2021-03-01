@@ -1,5 +1,5 @@
 
-# mvp features
+# MVP Features
 
 ### 1. Ask Questions
 
@@ -14,11 +14,11 @@
 
 ## Bonus Features
 
-### Bonus: Question Categories
+### Bonus 1: Question Categories
 
-### Bonus: Comment on Questions / Answers
+### Bonus 2: Comment on Questions / Answers
 
-### Bonus: Polymorphic Up/Down Votes: Questions, Answers, Comments
+### Bonus 3: Polymorphic Up/Down Votes: Questions, Answers, Comments
 
-### Bonus: Code Snippets in Answers
+### Bonus 4: Code Snippets in Answers
 
