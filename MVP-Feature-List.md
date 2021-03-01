@@ -8,15 +8,15 @@
   * Will prompt guests to login or create an account if they attempt to post or answer questions. 
 
 ### 3. Ask Questions
-  * Registered users will have the ability to `post Questions` pertaining to mixology. 
-  * Registered users will have the ability to `edit/delete` their own questions.
+  * Registered users will have the ability to `Post Questions` pertaining to mixology. 
+  * Registered users will have the ability to `Edit/Delete` their own questions.
 
 ### 4. Answer Questions
-  * Registered users will have the ability to `reply to posts` submitted by other users. 
-  * Registered users will have the ability to `edit/delete` their own answers.
+  * Registered users will have the ability to `Reply to Posts` submitted by other users. 
+  * Registered users will have the ability to `Edit/Delete` their own answers.
 
 ### 5. Search for Questions
-  * Registered users and guests will have the ability to look up posts using a `search bar`. 
+  * Registered users and guests will have the ability to look up posts using a `Search Bar`. 
 
 ### 6. Upvote / Downvote Answer
   * Registered users will have the ability to `upvote` and `downvote` answers and posts.
