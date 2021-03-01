@@ -4,7 +4,8 @@
 ### 1. Set up hosting on `Heroku`
   
 ### 2. Account Creation / Login / Logout / Guest-Login
-  * Users can have the ability to do the following: `Sign-up`, `Log-in`, `Log-out`. 
+  * Users will have the ability to do the following: `Sign-up`, `Log-in`, `Log-out`. 
+  * Guests will have the ability to use a Demo feature to login and access all normal functionality.
   * Will prompt guests to login or create an account if they attempt to post or answer questions. 
 
 ### 3. Ask Questions
