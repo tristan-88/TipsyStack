@@ -1,6 +1,8 @@
 
 # MVP Features
 
+### 0. Account Creation / Login / Logout / Guest-Login
+
 ### 1. Ask Questions
 
 
