@@ -19,7 +19,7 @@
   * Registered users and guests will have the ability to look up posts using a `Search Bar`. 
 
 ### 6. Upvote / Downvote Answer
-  * Registered users will have the ability to `upvote` and `downvote` answers and posts.
+  * Registered users will have the ability to `Upvote` and `Downvote` answers and posts.
 
 ## Bonus Features
 
