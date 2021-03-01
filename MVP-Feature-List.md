@@ -1,7 +1,10 @@
 
 # MVP Features
 
+### -1. Set up hosting on `Heroku`
+
 ### 0. Account Creation / Login / Logout / Guest-Login
+
 
 ### 1. Ask Questions
 
