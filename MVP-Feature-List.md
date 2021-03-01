@@ -1,5 +1,5 @@
 
-# ## mvp features
+# mvp features
 
 ### 1. Ask Questions
 
