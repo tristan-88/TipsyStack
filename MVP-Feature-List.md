@@ -24,11 +24,11 @@
 
 ## Bonus Features
 
-### Bonus 1: Question Categories
+### Bonus 1: Question Tags
 
 ### Bonus 2: Comment on Questions / Answers
 
 ### Bonus 3: Polymorphic Up/Down Votes: Questions, Answers, Comments
 
-### Bonus 4: Code Snippets in Answers
+### Bonus 4: Drink pics in Answers
 
