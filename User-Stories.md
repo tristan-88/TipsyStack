@@ -45,9 +45,9 @@
   * As a logged in or logged out user, I want to be able to view a specific Cocktail-Q and its associated Cocktail-As and Cocktail-Votes.
      * When I'm on the `/Cocktail-Q/:id` page:
         * I can view the content of the Cocktail-Q, as well as the associated Cocktail-As and Cocktail-Votes.
-             * So that I can read and answer the Cocktail-Q of the selected question.
+             * So that I can read and vote on the Cocktail-Q of the selected question.
         * I can post a Cocktail-A to the associated Cocktail-Q if I'm a registered user.
-             * So that I can
+             * So that I can answer a Cocktail-Q.
   ### Updating Cocktail-Q
   * As a logged in user, I the capability to edit my Cocktail-Q by clicking an Edit button paired with the Cocktail-Q and anywhere that Cocktail-Q is showcased.
      * When I'm on the `/Cocktail-Q`, `/Cocktail-Q/:id`, or `/users/:id/Cocktail-Q `pages:
