@@ -49,7 +49,7 @@
         * I can post a Cocktail-A to the associated Cocktail-Q if I'm a registered user.
              * So that I can answer a Cocktail-Q.
   ### Updating Cocktail-Q
-  * As a logged in user, I the capability to edit my Cocktail-Q by clicking an Edit button paired with the Cocktail-Q and anywhere that Cocktail-Q is showcased.
+  * As a logged in user, I have the capability to edit my Cocktail-Q by clicking an Edit button paired with the Cocktail-Q and anywhere that Cocktail-Q is showcased.
      * When I'm on the `/Cocktail-Q`, `/Cocktail-Q/:id`, or `/users/:id/Cocktail-Q `pages:
         * I can press "Edit" to make lasting changes to Cocktail-Q that I have written.
              * So that I can trim, add-on as I desired in my Cocktail-Q and fixed any error if need be.
@@ -58,4 +58,29 @@
  * As a logged in user, I want to have the ability to delete my Cocktail-Q by clicking a Delete button associated with the Cocktail-Q anywhere that Cocktail-Q is displayed.
     * When I'm on the `/Cocktail-Q`, `/Cocktail-Q/:id`, or `/users/:id/Cocktail-Q` pages:
          * I can click "Delete" to permanently delete a Cocktail-Q I have posted.
-              * So that when I realize I shouldn't have publicly said something or thinking it lost is relevancy, I can easily remove it.
+              * So that when I realize I shouldn't have publicly said something or think it has lost its relevancy, I can easily remove it.
+
+# Cocktail-A
+  ### Create Cocktail-A
+ * As a logged in user, I want to be able to post new Cocktail-A to a specific Cocktail-Q.
+     * When I'm on the `/Cocktail-Q/:id/create-answer` page:
+        * I can write and submit a new Cocktail-A.
+           * So that I can answer a question regarding someone's cocktail needs and desires.
+
+  ### Viewing Cocktail-A
+  * As a logged in or logged out user, I want to be able to view a selection of Cocktail-As related to a specific Cocktail-Q.
+     * When I'm on the `/Cocktail-Qs/:id` page:
+        * I can view the ten most upvoted Cocktail-As.
+             * So that I can browse through other users Cocktail-As.
+
+  ### Updating Cocktail-A
+  * As a logged in user, I have the capability to edit my Cocktail-A by clicking an Edit button paired with the Cocktail-A and anywhere that Cocktail-A is showcased.
+     * When I'm on the  `/Cocktail-Q/:id`, or `/users/:id/Cocktail-A `pages:
+        * I can press "Edit" to make lasting changes to Cocktail-A that I have written.
+             * So that I can trim, add-on as I desired in my Cocktail-A and fixed any error if need be.
+
+ ### Deleting Cocktail-A
+ * As a logged in user, I want to have the ability to delete my Cocktail-A by clicking a Delete button associated with the Cocktail-A anywhere that Cocktail-A is displayed.
+    * When I'm on the `/Cocktail-Q/:id`, or `/users/:id/Cocktail-A` pages:
+         * I can click "Delete" to permanently delete a Cocktail-A I have posted.
+              * So that when I realize I shouldn't have publicly said something or think it has lost its relevancy, I can easily remove it.
