@@ -1,3 +1,5 @@
+# Main Feature Tables
+
 ## `users`
 Column Name | Data Type | Details
 ------|-------|---------------------
@@ -35,6 +37,18 @@ updated_at | datetime | not null
 
 * `userId` references `users` table
 * cocktailQId references `cocktailQs` table
+
+*`tagsId` references a bonus table
+
+***
+
+# Bonus Feature Tables
+
+## `tags`
+Column Name | Data Type | Details
+------|-------|---------------------
+`id` | int | primary key, not null
+type | string | not null, unique
 
 ## `comments`
 Column Name | Data Type | Details
