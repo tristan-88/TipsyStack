@@ -66,6 +66,9 @@ updated_at | datetime | not null
 * `cocktailQId` references `cocktailQs` table
 * `cocktailAId` references `cocktailAs` table
 
+![TipsyStackSchema](https://user-images.githubusercontent.com/75585372/110056576-1983cb00-7d2d-11eb-95fa-9c6102293d1b.PNG)
+
+
 
 
 
